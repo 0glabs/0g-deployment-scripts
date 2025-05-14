@@ -2,11 +2,11 @@
 
 This repository provides example scripts for deploying a simple ERC20 token (`MyToken.sol`) to the 0G Testnet V3 (Chain ID: 80087) using popular development frameworks:
 
-*   **[Truffle](./truffle/README.md)**
-*   **[Hardhat](./hardhat/README.md)**
-*   **[Foundry](./foundry/README.md)**
+*   **[Truffle](./truffle/Ujang.md)**
+*   **[Hardhat](./hardhat/Ujang.md)**
+*   **[Foundry](./foundry/Ujang.md)**
 
-Each directory contains a self-contained example with specific setup and deployment instructions in its respective `README.md` file.
+Each directory contains a self-contained example with specific setup and deployment instructions in its respective `UJANG.md` file.
 
 ## Contract
 
