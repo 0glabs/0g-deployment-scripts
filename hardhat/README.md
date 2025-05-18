@@ -5,14 +5,16 @@ This directory contains an example of deploying an ERC20 token (`MyToken.sol`) t
 ## Prerequisites
 
 *   Node.js and npm
-*   Hardhat (`npm install --save-dev hardhat`)
+*   Hardhat 
 
 ## Setup
 
-1.  Install dependencies:
+1.  Initialize a new Hardhat project:
+
     ```bash
-    npm install
-    npx hardhat
+    npm init -y
+    npm install --save-dev hardhat
+    npx hardhat init
     ```
     Install OpenZeppelin contracts:
     ```bash
